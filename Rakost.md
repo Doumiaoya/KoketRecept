@@ -1,7 +1,9 @@
-### 1.Pizzasallad
+### 1.Pizzasallad(med kryddor)
 #### Ingredienser:
-Vitkål: 
-Vitvinsvinäger(ättiksprit), oregano, svartpeppar malen, salt, rapsolja
+Vitkål: 8.75kg, rapsolja:1.05kg, vitvinsvinäger:420g, svartpeppar grovmalen:10.5g, oregano:10.5g
+1. Strimla vitkålen fint på hällde eller riv vitkålen på hällde rivskriva nr 2mm
+2. Häll över dressingen
+3. Låt stå tills nästa dag.
 
 
 ### 2.Marinerade kikärter
@@ -50,3 +52,24 @@ Grönkål: 3.78kg, rödkål: 3.78kg, solroskärnor: 0.72kg
 1. dressing: Vispa ihop olja, citronjuice och senap i en skål. Smaka av med salt.
 2. Häll dressingen över kålen och massera in dressingen (använd något redskap vid större mängder) tills kålen mjuknar något.
 3. Blanda sedan ner rostade solroskärnor.
+
+
+### 6.Råkost morotssallad med äpple och purjolök(med vinägrett)
+Ingredienser:
+morot:10.5kg, äpple:4.2kg, purjolök:1.05kg
+Dressing:
+rapsolja:1.05kg, äppelcidervinäger:0.7kg, vitpeppar malen:3.5g, salt:35g
+1. finriv morötterna och grovriv äpplena
+2. finstrimla den färska purjalöken
+3. blanda dressingen och häll den över grönsakerna.
+
+
+### 7.Råkost vitkål och morotssallad, rostade solroskärnor
+Ingredienser:
+vitkål:3.5kg, morot:3.5kg, solrokärnor: 1.05kg
+Dressing:
+skånsk senap:45.17g, äppelciderrvinäger:175g, rapsolja:472.5g, svartpeppar malen:5.48g, salt:38g
+1. ansa kålen och morötterna och strimla den på hällde skriva 2 mm
+2. dressin: blanda senap, vinäger. vispa oljan droppvis och smaka av med salt och peppar.
+3. rosta solroskärnorna i ugn (150 grader, ca 15 minuter)
+4. blanda kålen och morötterna med dressingen och strö över solroskärnor.
