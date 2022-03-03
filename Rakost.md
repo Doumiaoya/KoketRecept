@@ -1,11 +1,11 @@
-## Pizzasallad
+### 1.Pizzasallad
 #### Ingredienser:
 Vitkål: 
 Vitvinsvinäger(ättiksprit), oregano, svartpeppar malen, salt, rapsolja
 
 
-** Marinerade kikärter
-*** Ingredienser:
+### 2.Marinerade kikärter
+#### Ingredienser:
 Kikärter: 300g
 Dressing:vitvinsvinäger: 20g, rapsolja: 40g, matlagningssenap: 20g, salt:1g, vitpeppar malen: 0.1g
 1. Häll av spadet från kikärterna
@@ -14,7 +14,7 @@ Dressing:vitvinsvinäger: 20g, rapsolja: 40g, matlagningssenap: 20g, salt:1g, vi
 4. Häll dressingen över kikärterna och låt stå kallt till nästa dag.
 
 
-Råkost med marinerad tofu
+### 3.Råkost med marinerad tofu
 Råkost standard
 Ingredienser:
 Morot: 360g, gurka: 270g, tomat:270g, vitkål: 570g
@@ -28,7 +28,7 @@ Rapsolja: 30g, salt:1.5g, citronjuice konc:30g, sweet chilisås: 30g
 5. Blanda den marinerade tofun men råkost till LOV och vegan.
 
 
-Råkost vitkål, morot, kålrot, dressing nytt
+### 4.Råkost vitkål, morot, kålrot, dressing nytt
 Ingredienser:
 Vitkål: 8.28kg, morot skalad: 1.08kg, kålrot:1.08kg
 Vitvinsvinäger: 80g, salt:136g, persilja fryst:160g
@@ -43,7 +43,7 @@ Dressing: rapsolja: 162g, dijonsenap: 13g, vitvinsvinäger :43g, vitpeppar malen
 8. Låt kallna innan ni blanda vitkål men morot, kålrot, vinägrett.
 
 
-Råkost grönkål, rödkål, solrosfrö, citron och senap
+### 5.Råkost grönkål, rödkål, solrosfrö, citron och senap
 Ingredienser:
 Rapsolja: 360g, citronjuice konc:125g, skånsk senap: 74g, salt: 12.6g
 Grönkål: 3.78kg, rödkål: 3.78kg, solroskärnor: 0.72kg 
