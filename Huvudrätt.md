@@ -1,3 +1,31 @@
+### Köttbullar(bl färs), gräddsås, lingonsylt (50 portioner)
+#### Ingredienser:
+##### köttbullar(bl färs):5kg
+##### sås grädd:
+rapsolja:75g, gul lök:500g, strösocker:50g, ättiksprit12%:50g, vatten:2kg, oxfond:250g, vispgrädde40%:1.25kg, kinesisk soya:50g, vinbärsgele svart:250g, salt:50g, vitpeppar:5g
+##### lingonsylt:1.75kg
+
+#### Tillagningsanvisning:
+##### köttbullar:
+1. krögar köttbullar innehåller ströbröd och grädde
+2. värm köttbullar försiktigt i 150 grader kombi till innertemperaturen är 72 grader, ca 15-20 minuter
+
+##### sås grädd
+1. fräs löken gyllenbrun i rapsoljan.
+2. tillsätt ättika, socker och fräs lite till (karamellisera)
+3. tillsätt oxfond, vatten och soja, låt koka upp.
+4. tillsätt grädden och sjud i 15 minuter.
+5. tillsätt svartvinbärsgelen och låt sjuda några minuter.
+6. sila såsen.
+7. red av.
+8. smaka av.
+
+##### lingonsylt:
+servaras spm måltidstillbehör exempelvis till färsrätter.
+
+
+
+
 ### Köttfärssås (bl färs)(50 portioner)
 #### Ingredienser:
 blandfärs:1.5kg, vegetarisk färs(sojafärs):0.83kg, gul lök:0.67kg, vitlök:50g, morot:0.67kg, tomater krossade:2.67kg, tomatpure:340g
