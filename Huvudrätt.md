@@ -24,6 +24,21 @@ rapsolja:75g, gul lök:500g, strösocker:50g, ättiksprit12%:50g, vatten:2kg, ox
 servaras spm måltidstillbehör exempelvis till färsrätter.
 
 
+### Lättugg nötfärsbiff, gräddsås (30 portioner)
+#### Ingredienser:
+##### nötfärsbiff
+##### sås grädd
+rapsolja:45g, gul lök:300g, strösocker:30g, ättiksprit12%:30g, oxfond:150g, vispgrädde40%:0.75kg, kinesisk soya:30g, vinbärsgele svart:150g, vitpeppar:3g, vatten:1.2kg, salt
+#### Tillagningsanvisning:
+1. fräs löken gyllenbrun i rapsoljan.
+2. tillsätt ättika, socker och fräs lite till (karamellisera)
+3. tillsätt oxfond, vatten och soja, låt koka upp.
+4. tillsätt grådden och sjud i 15 minuter.
+5. tittsätt svartvinbärsgelen och låt sjuda någre mniuter.
+6. sila såsen.
+7. red av.
+8. smaka av.
+
 
 
 ### Köttfärssås (bl färs)(50 portioner)
@@ -92,4 +107,7 @@ fläskkött strimlat:3.75kg, morot:1.5kg, vitlök:100g, rödlök skriva:1kg, mar
 falukorv strimlad:12.6kg, rapsolja:320g, gul lök:4kg, vitlök:320g, vitkål:6.3kg, tomatpure:1.89kg, skånsk senap:500g, cayennepeppar:6g, paprika pulver:60g, rosmarin torkad:5g, kalvfond:0.79kg, vispgrädde40%:4.7kg, vatten:10kg, salt
 
 #### Tillagningsanvisning:
+
+
+### 
 
