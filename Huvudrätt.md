@@ -107,6 +107,16 @@ fläskkött strimlat:3.75kg, morot:1.5kg, vitlök:100g, rödlök skriva:1kg, mar
 falukorv strimlad:12.6kg, rapsolja:320g, gul lök:4kg, vitlök:320g, vitkål:6.3kg, tomatpure:1.89kg, skånsk senap:500g, cayennepeppar:6g, paprika pulver:60g, rosmarin torkad:5g, kalvfond:0.79kg, vispgrädde40%:4.7kg, vatten:10kg, salt
 
 #### Tillagningsanvisning:
+1. hacka löken, tärna vitkålen i mindre bitar på hällde
+2. bryn den strimlade falukorven på stekbord eller i ugn.
+3. tillsätt alla kryddor och tomatpure.
+4. stek lite till.
+5. fräs lök, vitlök och köl mjuk i gryta minst 25 min.
+6. tillsätt den stekta korven, senap, buljong, vatten och grädde.
+7. sjud minst 20 min.
+8. red av grytan.
+9. smaka av.
+
 
 --------
 ### Falukorv med tomat och pepparrot(200 portioner)
