@@ -23,7 +23,7 @@ rapsolja:75g, gul lök:500g, strösocker:50g, ättiksprit12%:50g, vatten:2kg, ox
 ##### lingonsylt:
 servaras spm måltidstillbehör exempelvis till färsrätter.
 
--------
+--------
 ### Lättugg nötfärsbiff, gräddsås (30 portioner)
 #### Ingredienser:
 ##### nötfärsbiff
