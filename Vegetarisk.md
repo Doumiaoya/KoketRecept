@@ -26,3 +26,21 @@ pasta:2.8kg, champinjoner:0.8kg, vitlök:40g, ratatouilegrösaker:2.8kg, creme f
 7. lägg i smorda bleck, strö över riven ost.
 8. tillaga i ugn, 175 grader i ca 20 minuter.
 
+
+### Mustig bönchili m kakao- vegan (50 portioner)
+#### Ingredienser:
+morot:0.65kg, squash:0.65kg, paprikablandning strimlad:0.65kg, smörbönor:1.25kg, röda bönor:1.25kg, tomater krossade:3kg
+gul lök:0.75kg,  vitlök:50g, chilifrukt:7g, olivolja:225g, spriskunmin:25g, timjan:10g, oregano:10g, paprika pulver:25g, grönsaksfond:150g, kinesisk soya:120g, matlagningsvin rött:1.88kg, chipotle paste:5g, kakaopulver:50g, svartpeppar:2.5g, persilja:12.5g, vatten:0.63kg, salt
+
+#### Tillagningsanvisning:
+1. fräs lök, vitlök, squash, och morötter samt hacksa försk chili i olivolja några minuter.
+2. tillsätt spriskummin, timjan, oregano och paprikapulver och rör om.
+3. tillsätt buljong, rött matlagningsvin, kinesisk soya, chipotlepaste och krossade tomater och låt puttra lönge under lock, minst 40 minuter.
+4. skölj av de kokta bönorna.
+5. tillsätt bönor efter hand.
+6. låt koka till önskad konsistens ca 15-20 minuter.
+7. tillsätt paprikan och koka upp.
+8. späd med vatten vid behov men inte för mycket. chilin ska vara ganska tjockt.
+9. rör ner kakaopulve och persiljan.
+10. smaka av med salt och peppar. 
+
