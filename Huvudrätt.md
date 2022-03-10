@@ -54,8 +54,26 @@ rapsolja:67g, oregano:23g, rosmarin:2.5g, timjan:2.5g, spriskummin:20g, lagerbla
 5. smaka av med salt.
 6. plocka upp kryddkulan.
 
+
 --------
-### Pastasås med kycking, oregano och citrus (150 portioner)
+### Kycklingfärsbiff med örtolja (210 protioner)
+#### Ingredienser:
+##### kycklingfärsbiff:
+kycklingfär:12.6kg, vegetarisk färs(sojafärs):6.3kg, gul lök:2.5kg, vitlök:100g, rapsolja:84g, persilja fryst:260g, helägg: 1.26kg, dijonsenap:1.73kg, vispgrädde:0.63kg, salt:200g, vitpeppar
+##### örtolja:
+basilika fryst:210g, rapsolja:1.89kg: salt, strösocker:2g
+
+#### Tillagningsanvisning:
+1. fräs vitlök och hackad lök i olja och låt svalna.
+2. blanda alla ingredienser och forma till biffar.(normal:125g, liten,Ekost:85g)
+3. gör en liten provbiff för att kontrollera kryddningen.
+4. mixa basilika och rapsolja i matberedaren.
+5. smaksätt med salt, peppar och en nypa socker.
+6. ringla örtoljan över de varma biffarna på blecket.
+
+
+--------
+### Pastasås med kyckling, oregano och citrus (150 portioner)
 #### Ingredienser:
 kycklinglårfile strimlad färsk 12mm:10.5kg, kycklingfond:0.75kg, vispgrädde 40%: 3kg, standardmjölk 3%:4.5kg, morot:3kg, rotselleri:1.5kg,
 rapsolja:300g, vatten:2.25kg, oregano:45g, citronjuice konc:0.77kg, redning mat:450g, salt
@@ -100,6 +118,28 @@ fläskkött strimlat:3.75kg, morot:1.5kg, vitlök:100g, rödlök skriva:1kg, mar
 5. låt alltkoka tills köttet är mjukt.
 6. smaka av med salt och svartpeppar.
 7. tillsätt grönsakerna i slutet av kokningen.
+
+
+--------
+### Fläskköttsgryta med rotfrukter och curry (200 portioner)
+#### Ingredienser:
+fläskbog strimlad:16kg, morot:2kg, rotselleri:2kg, palsternacka:2kg, gul lök:4kg, vitlök:200g,
+rapsolja:0.6kg, vispgrädde40%:3kg, balsamicovinäger:200g, oxfonf:500g, honung:200g, curry:200g, persilja fryst:300g, salt, vatten
+
+#### Tillagningsanvisning:
+1. skala rotselleri och palsternacka.
+2. tärna rotselleri, palsternacka och morötter på hällden.
+3. bryn köttet väl i olja i stekbord eller i ugn, keydda med curry.
+4. fräs lök och vitlök samt rotsaker i olja i stekbord.
+5. lägg över i gryta.
+6. tillsätt allt utom grädde och persilja. 
+7. koka upp och låt sjuda i 10 minuter.
+8. tillsätt grädde och sjuda 20 minuter.
+9. prova om köttet är färdigt.
+10. tillsätt persiljan.
+11. red av grytan.
+12. smaka av.
+
 
 --------
 ### Korv stroganoff nytt (220 portioner)
