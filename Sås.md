@@ -1,4 +1,4 @@
-### Sås grädd ()
+### Sås grädd (50 portioner)
 #### Ingrediener:
 rapsolja:75g, gul lök:500g, strösocker:50g, ättiksprit12%:50g, vatten:2kg, oxfond:250g, vispgrädde40%:1.25kg, kinesisk soya:50g, vinbärsgele svart:250g, salt:50g, vitpeppar:5g
 
