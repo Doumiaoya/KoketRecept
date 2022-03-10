@@ -174,3 +174,33 @@ gul lök:2kg, pepparrot riven:0.6kg, tomater krossade: 5kg, skånsk senap:0.6kg,
 6. stek i ugn i 30 minuter.
 7. strö över dill och servera.
 
+
+--------
+### Fiskgratäng med citron och dill (120 portioner)
+#### Ingredienser:
+##### fisk till gratäng eller soppa:14.4kg, salt:60g, vitpeppar:12g
+##### sås
+gul lök:0.68kg, rotselleri:350g, bladpersilja:70g, lagerblad:50g, vitpeppar hel:35g, vitvinsvinäger:400g, fiskfond:400g, citronjuice konc:0.9kg, vispgrädde40%:3.5kg, creme fraiche34%:1.5kg, dill fryst:400g, vatten, salt
+
+#### Tillagningsanvisning:
+##### förberedelser:
+1. lägg upp fisken i bleck dagen före tillagning. (120g fisk per port)
+2. salta och peppra fisken.
+
+##### säsen:
+1. skala och skär rotsellerin i mindre bitar.
+2. koka upp lök, rotselleri, persiljestjälkar (knyt ihop med steksnöre),lagerblad, hel vitpeppar(läggs i kryddkula), vitvinsvinäger, fiskfond, citronjuice och vatten, låt sjuda i 15 minuter.
+3. tillsätt grädde och creme fraiche, sjud ytterligare i 10 minuter.
+4. smaka av med salt.
+5. fiska upp persiljebunten och kryddkulan.
+6. red såsen.
+7. tillsätt dill.
+
+##### 
+20 portioner (ca 2.4kg fisk) per en bleck, ca 1.6 liter sås per en bleck. ca 0.8 dl per port.
+##### 
+grädda i ugn 165 grader.
+kämtemp ca 50 grader.
+
+
+
