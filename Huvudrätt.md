@@ -56,6 +56,25 @@ rapsolja:67g, oregano:23g, rosmarin:2.5g, timjan:2.5g, spriskummin:20g, lagerbla
 
 
 --------
+### Kålpudding (48 portioner)
+#### Ingredienser:
+vitkål:7.2kg, blandfärs:1.5kg, vegetarisk färs(sojafärs):1kg, gul lök:1kg, rapsolja:150g, kalvfond:150g, lagerblad:20g, sirap ljus:360g, helägg: 480g, senapspulver:30g, kryddpeppar hel:10g, vitpeppar:10g, salt, vatten
+
+#### Tillagningsanvisning:
+1. Tips: det tar tid att bryna och koka vitkål och lök på stekbordet.kålen ska bli lagom mjuk och smakrik.
+2. Tips: bryn och koka vitkålen någon dag innan servering
+3. tärna vitkålen på hällde ca 2x2 cm
+4. bryn vitkål och lök gyllenbrun i rapsolja op stekbordet.
+5. tillsätt vatten, buljong, lagerblad, sirap, grovmalen kryddpeppar, och salt till vitkål och lök i stekbordet.
+6. koka nästan torrt och låt svalna.
+7. blanda 2/3 av kålfräset med köttfärs, sojafärs, ägg och senap.
+8. salta och peppra.
+9. lägg den blandade färsröran på bleck 4 liter per bleck.
+10. lägg resterade kålfräs på färsröran.
+11. grädda i ugnen ca 45 minuter på 160 grader.
+
+
+--------
 ### Kycklingfärsbiff med örtolja (210 protioner)
 #### Ingredienser:
 ##### kycklingfärsbiff:
