@@ -6,7 +6,7 @@ Tillagningsanvisning:
 2. Häll över dressingen
 3. Låt stå tills nästa dag.
 
-
+--------
 ### 2.Marinerade kikärter
 #### Ingredienser:
 Kikärter: 300g
@@ -17,7 +17,7 @@ Tillagningsanvisning:
 3. Tillsätt olja och kryddor. Tillsätt oljan försiktigt så att dressingen inte skär sig.
 4. Häll dressingen över kikärterna och låt stå kallt till nästa dag.
 
-
+--------
 ### 3.Råkost med marinerad tofu
 Råkost standard
 Ingredienser:
@@ -32,7 +32,7 @@ Tillagningsanvisning:
 4. Låt marinera minst 30 minuter
 5. Blanda den marinerade tofun men råkost till LOV och vegan.
 
-
+--------
 ### 4.Råkost vitkål, morot, kålrot, dressing nytt
 Ingredienser:
 Vitkål: 8.28kg, morot skalad: 1.08kg, kålrot:1.08kg
@@ -48,7 +48,7 @@ Tillagningsanvisning:
 7. Blanda ner persiljan när du tar ur morötter och kålrötter från ugnen
 8. Låt kallna innan ni blanda vitkål men morot, kålrot, vinägrett.
 
-
+--------
 ### 5.Råkost grönkål, rödkål, solrosfrö, citron och senap
 Ingredienser:
 Rapsolja: 360g, citronjuice konc:125g, skånsk senap: 74g, salt: 12.6g
@@ -58,7 +58,7 @@ Tillagningsanvisning:
 2. Häll dressingen över kålen och massera in dressingen (använd något redskap vid större mängder) tills kålen mjuknar något.
 3. Blanda sedan ner rostade solroskärnor.
 
-
+--------
 ### 6.Råkost morotssallad med äpple och purjolök(med vinägrett)(350 portioner)
 Ingredienser:
 morot:10.5kg, äpple:4.2kg, purjolök:1.05kg
@@ -69,7 +69,7 @@ Tillagningsanvisning:
 2. finstrimla den färska purjalöken
 3. blanda dressingen och häll den över grönsakerna.
 
-
+--------
 ### 7.Råkost vitkål och morotssallad, rostade solroskärnor(350 portioner)
 Ingredienser:
 vitkål:3.5kg, morot:3.5kg, solrokärnor: 1.05kg
