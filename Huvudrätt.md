@@ -222,4 +222,36 @@ grädda i ugn 165 grader.
 kämtemp ca 50 grader.
 
 
+--------
+### Fiskgratäng med purjolök (150 portioner)
+#### Ingredienser:
+##### fisk till gratäng eller soppa:18kg, salt:150g, vitpeppar:8g
+##### sås
+purjolök:2.5kg, gul lök:0.75kg, rotselleri:300g, lagerblad:30g, vitpeppar hel:34g, bladpersilja:375g, vitvinsvinäger:375g, fiskfond:500g, vispgrädde40%:3kg, creme fraiche34%:1.5kg, salt, vatten, redning mat
+
+#### Tillagningsanvisning:
+##### förberedelser:
+1. lägg upp fisken i bleck dagen före tillagning.
+2. salta och peppra lätt.
+3. rensa purjolöken och skiva den.
+4. skala och skär rotsellerin i små bitar.
+5. bind ihop persiljan i buntar.
+
+##### sås
+1. fräs purjolöken, rotsellerin mjuk i olja utan att få färg.
+2. tillsätt lagerblad, hel vitpeppar, bitvinsvigäer, persilja, fishfond och vatten, sjud i ca 15 minuter.
+3. tillsätt grädde, creme fraiche och purjolök, sjud ytterligare i 10 minuter.
+4. smaka av med salt.
+5. fiska upp persiljebunten och kryddkulorma.
+6. red såsen
+7. smaka av
+
+##### 
+1. slå den färdiga såsen över fisken.
+2. grädda i ugn (hetluf) 165 grader. kärntemp ca 55 grader.
+
+##### 
+20 portioner (ca 2.4kg fisk) per bleck, ca 1.6 liter sås per bleck (ca 0.8 dl per port)
+
+
 
