@@ -1,3 +1,13 @@
+### Kall sås med vitlök, gräslök, persilja (50 portioner)
+#### Ingredienser:
+turkisk yoghurt10%:4kg, filmjölk3%:1.25kg, vitlök:10g, persilja:100g, gräslök:100g, salt
+
+#### Tillagningsanvisning:
+1. bland samman ingredienserna och smaka av med kryddorna.
+2. 1.1 dl per 1 port
+3. 
+
+--------
 ### Sås grädd (50 portioner)
 #### Ingrediener:
 rapsolja:75g, gul lök:500g, strösocker:50g, ättiksprit12%:50g, vatten:2kg, oxfond:250g, vispgrädde40%:1.25kg, kinesisk soya:50g, vinbärsgele svart:250g, salt:50g, vitpeppar:5g
