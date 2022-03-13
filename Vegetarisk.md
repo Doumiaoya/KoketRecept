@@ -13,6 +13,7 @@ riven ost: 0.6kg
 
 
 
+--------
 ### Pastagratäng med grönsaker och champinjoner (40 portioner)
 #### Ingredienser:
 pasta:2.8kg, champinjoner:0.8kg, vitlök:40g, ratatouilegrösaker:2.8kg, creme fraiche34%:2.4kg, tomater krossade:1.8kg, sambal oelek:60g, tomatpure:0.6kg, grönsaker fond:200g, vitpeppar:20g, riven ost28%:400g, margarin mjölkfritt flytande:80g, salt
@@ -27,6 +28,7 @@ pasta:2.8kg, champinjoner:0.8kg, vitlök:40g, ratatouilegrösaker:2.8kg, creme f
 8. tillaga i ugn, 175 grader i ca 20 minuter.
 
 
+--------
 ### Mustig bönchili m kakao- vegan (50 portioner)
 #### Ingredienser:
 morot:0.65kg, squash:0.65kg, paprikablandning strimlad:0.65kg, smörbönor:1.25kg, röda bönor:1.25kg, tomater krossade:3kg
@@ -43,4 +45,20 @@ gul lök:0.75kg,  vitlök:50g, chilifrukt:7g, olivolja:225g, spriskunmin:25g, ti
 8. späd med vatten vid behov men inte för mycket. chilin ska vara ganska tjockt.
 9. rör ner kakaopulve och persiljan.
 10. smaka av med salt och peppar. 
+
+
+--------
+### Quornfile med ingefärsglaze (50 portioner)
+#### Ingredienser:
+##### quorn file: 5.8kg
+##### Glaze:
+grönskasfond:22g, äpplejuice konc:100g, japansk soja:100g, ingefära malen:5g, vitpeppar:2g, vatten:400g
+
+#### Tillagningsanvisning:
+1. blanda vatten, buljong, äpplejuice, soja, ingefära och vitpeppar.
+2. fördela över de tinade quornfilerna.
+3. stek i förvärmd ugn enligt förpackningen.
+
+
+
 
