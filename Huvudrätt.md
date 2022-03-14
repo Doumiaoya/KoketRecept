@@ -1,3 +1,55 @@
+--------
+### Fläskköttsgryta med morot och vitlök (50 portioner)
+#### Ingredienser:
+fläskkött strimlat:3.75kg, morot:1.5kg, vitlök:100g, rödlök skriva:1kg, margarin mjölkfritt flytande:150g, viapgrädde40%:1.5kg, kalvfond:50g, samba oelek:50g, kinesisk soja:50g, svartpeppar:5g, salt, vatten:2.5kg
+
+#### Tillagningsanvisning:
+1. slanta morötterna på hällde.
+2. bryn köttet och löken på stekbordet eller i ugn så köttet får färg.
+3. flytta över till kokgryta.
+4. tillsätt grädde, fond,sambal oelek, pressad vitlök och soja.
+5. låt alltkoka tills köttet är mjukt.
+6. smaka av med salt och svartpeppar.
+7. tillsätt grönsakerna i slutet av kokningen.
+
+
+--------
+### Fläskköttsgryta med rotfrukter och curry (200 portioner)
+#### Ingredienser:
+fläskbog strimlad:16kg, morot:2kg, rotselleri:2kg, palsternacka:2kg, gul lök:4kg, vitlök:200g,
+rapsolja:0.6kg, vispgrädde40%:3kg, balsamicovinäger:200g, oxfonf:500g, honung:200g, curry:200g, persilja fryst:300g, salt, vatten
+
+#### Tillagningsanvisning:
+1. skala rotselleri och palsternacka.
+2. tärna rotselleri, palsternacka och morötter på hällden.
+3. bryn köttet väl i olja i stekbord eller i ugn, keydda med curry.
+4. fräs lök och vitlök samt rotsaker i olja i stekbord.
+5. lägg över i gryta.
+6. tillsätt allt utom grädde och persilja. 
+7. koka upp och låt sjuda i 10 minuter.
+8. tillsätt grädde och sjuda 20 minuter.
+9. prova om köttet är färdigt.
+10. tillsätt persiljan.
+11. red av grytan.
+12. smaka av.
+
+
+--------
+### Fläskkött i sojasås med wokgrönsaker och ingefära (220 portioner)
+#### Ingredienser:
+fläskkött strimlat:15.4kg, gul lök:2.2kg, vitlök:220g, ingefära:22g, wokgrönsaker:10kg, kinesisk soja:1.1kg, rapsolja:440g, oxfond:0.66kg, svartpeppar:22g, vattenkastanj:2.2kg, salt, vatten:11kg
+
+#### Tillagningsanvisning:
+1. bryn löken i stekbord eller i ugnen.
+2. bryn köttet i stekbord eller ugnen.
+3. tillsätt den drynta löken till köttet samt den rivna ingefära.
+4. tillsätt vatten, buljong och soja. låt allt koka upp.
+5. tillsätt vattenkastanjer och wokgrönsakerna.
+6. red till en simmig konsistens.
+7. krydda med salt och svartpeppar.
+
+
+--------
 ### Köttbullar(bl färs), gräddsås, lingonsylt (50 portioner)
 #### Ingredienser:
 ##### köttbullar(bl färs):5kg
@@ -22,22 +74,6 @@ rapsolja:75g, gul lök:500g, strösocker:50g, ättiksprit12%:50g, vatten:2kg, ox
 
 ##### lingonsylt:
 servaras spm måltidstillbehör exempelvis till färsrätter.
-
---------
-### Lättugg nötfärsbiff, gräddsås (30 portioner)
-#### Ingredienser:
-##### nötfärsbiff
-##### sås grädd
-rapsolja:45g, gul lök:300g, strösocker:30g, ättiksprit12%:30g, oxfond:150g, vispgrädde40%:0.75kg, kinesisk soya:30g, vinbärsgele svart:150g, vitpeppar:3g, vatten:1.2kg, salt
-#### Tillagningsanvisning:
-1. fräs löken gyllenbrun i rapsoljan.
-2. tillsätt ättika, socker och fräs lite till (karamellisera)
-3. tillsätt oxfond, vatten och soja, låt koka upp.
-4. tillsätt grådden och sjud i 15 minuter.
-5. tittsätt svartvinbärsgelen och låt sjuda någre mniuter.
-6. sila såsen.
-7. red av.
-8. smaka av.
 
 
 --------
@@ -72,6 +108,23 @@ vitkål:7.2kg, blandfärs:1.5kg, vegetarisk färs(sojafärs):1kg, gul lök:1kg, 
 9. lägg den blandade färsröran på bleck 4 liter per bleck.
 10. lägg resterade kålfräs på färsröran.
 11. grädda i ugnen ca 45 minuter på 160 grader.
+
+
+--------
+### Lättugg nötfärsbiff, gräddsås (30 portioner)
+#### Ingredienser:
+##### nötfärsbiff
+##### sås grädd
+rapsolja:45g, gul lök:300g, strösocker:30g, ättiksprit12%:30g, oxfond:150g, vispgrädde40%:0.75kg, kinesisk soya:30g, vinbärsgele svart:150g, vitpeppar:3g, vatten:1.2kg, salt
+#### Tillagningsanvisning:
+1. fräs löken gyllenbrun i rapsoljan.
+2. tillsätt ättika, socker och fräs lite till (karamellisera)
+3. tillsätt oxfond, vatten och soja, låt koka upp.
+4. tillsätt grådden och sjud i 15 minuter.
+5. tittsätt svartvinbärsgelen och låt sjuda någre mniuter.
+6. sila såsen.
+7. red av.
+8. smaka av.
 
 
 --------
@@ -123,41 +176,6 @@ vispgrädde40%:6.6kg, standardmjölk3%:13.2kg, dragon:22g, svartpeppar:2.2g, dij
 5. tillsätt därefter senap och pressad citron på fläska.
 6. smaka av med salt.
 7. häll blandningen över kycklingen och stek i ugn på kombi 150-175 grader tills innertemperaturen nått 72 grader.
-
---------
-### Fläskköttsgryta med morot och vitlök (50 portioner)
-#### Ingredienser:
-fläskkött strimlat:3.75kg, morot:1.5kg, vitlök:100g, rödlök skriva:1kg, margarin mjölkfritt flytande:150g, viapgrädde40%:1.5kg, kalvfond:50g, samba oelek:50g, kinesisk soja:50g, svartpeppar:5g, salt, vatten:2.5kg
-
-#### Tillagningsanvisning:
-1. slanta morötterna på hällde.
-2. bryn köttet och löken på stekbordet eller i ugn så köttet får färg.
-3. flytta över till kokgryta.
-4. tillsätt grädde, fond,sambal oelek, pressad vitlök och soja.
-5. låt alltkoka tills köttet är mjukt.
-6. smaka av med salt och svartpeppar.
-7. tillsätt grönsakerna i slutet av kokningen.
-
-
---------
-### Fläskköttsgryta med rotfrukter och curry (200 portioner)
-#### Ingredienser:
-fläskbog strimlad:16kg, morot:2kg, rotselleri:2kg, palsternacka:2kg, gul lök:4kg, vitlök:200g,
-rapsolja:0.6kg, vispgrädde40%:3kg, balsamicovinäger:200g, oxfonf:500g, honung:200g, curry:200g, persilja fryst:300g, salt, vatten
-
-#### Tillagningsanvisning:
-1. skala rotselleri och palsternacka.
-2. tärna rotselleri, palsternacka och morötter på hällden.
-3. bryn köttet väl i olja i stekbord eller i ugn, keydda med curry.
-4. fräs lök och vitlök samt rotsaker i olja i stekbord.
-5. lägg över i gryta.
-6. tillsätt allt utom grädde och persilja. 
-7. koka upp och låt sjuda i 10 minuter.
-8. tillsätt grädde och sjuda 20 minuter.
-9. prova om köttet är färdigt.
-10. tillsätt persiljan.
-11. red av grytan.
-12. smaka av.
 
 
 --------
