@@ -227,6 +227,35 @@ gul lök:2kg, pepparrot riven:0.6kg, tomater krossade: 5kg, skånsk senap:0.6kg,
 
 
 --------
+### Stekt falukorv, makaroner (40 portioner)
+#### Ingredienser:
+##### Ugnstekt falukorv
+falukorv skivad:3.6kg
+##### Makaroner kokta
+makaroner:2.4kg, salt och rapsolja
+
+#### Tillagningsanvisning:
+##### Ugnstekt falukorv
+1. lägg korven i tegelpannevis i bleck. OBS inte för tätt för då blir korven mer kokt.
+2. gratinera i hetluft 175 grader ca 15 minuter.(kärntemp 75 grader)
+
+##### Makaroner kokta
+1. ställ in värmen på grytan på full effekt.
+2. sätt igång omröraren på låg hastighet.
+3. koka upp vattnet med lite olja och håll det kokande.
+4. häll i salt och pasta.
+5. vattnet måste koka och låt omröraren gå på lägst varvtal tills vattnet kokat upp igen.
+6. ställ tidtagaruret på 3 minuter kortare tid än den angivna enligt förpackningen.
+7. när tidtagaruret ringer stäng av värmen och spola kallvatten i grytan tills kokningen upphör.
+8. häll av vattnet med hjälp av en silplåt.
+
+##### kallmat skas
+1. häll lite rapsolja över pasten innen den öses upp i kantin.
+2. kyl ner snabbt.
+3. det blir lättare att dela när det är olja i annars kilbbar det ihop sig efter nedkylning.
+
+
+--------
 ### Fiskgratäng med citron och dill (120 portioner)
 #### Ingredienser:
 ##### fisk till gratäng eller soppa:14.4kg, salt:60g, vitpeppar:12g
