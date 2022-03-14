@@ -1,3 +1,16 @@
+### Vegansk pastasås med sojafärs, svamp och tomat(50 portioner)
+#### Ingredienser:
+vegetarisk färs(sojafärs):2kg, gul lök:0.65kg, vitlök:50g, morot:0.65kg, champinjoner:300g, rapsolja:50g, oregano:75g, rosmarin:16g, timjan:16g, svartpeppar:16g, tomatpure:400g, tomater krossade:2.65kg, sambal oelek:30g, grönsaksfond:125g, salt, vatten
+
+#### Tillagningsanvisning:
+1. bryn sojafärs, lök, grönsaker och kryddor i rapsolja.
+2. blanda med tomatpure och låt det sjuda tills grönsakerna mjuknar.
+3. fyll på med tomatkross, sambal oelek, vatten och buljong.
+4. låt koka/sjuda i minst 30 minuter.
+5. smaka av med salt.
+
+
+--------
 ### Vegetarisk moussaka med linser (45 portioner)
 #### Ingredienser:
 ##### 
