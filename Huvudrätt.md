@@ -179,6 +179,20 @@ vispgrädde40%:6.6kg, standardmjölk3%:13.2kg, dragon:22g, svartpeppar:2.2g, dij
 
 
 --------
+### Kenyansk kokoskyckling (200 portioner)
+#### Ingredienser:
+kycklinglårfile(med salt, peppar och olja):30kg, gul lök:6kg, vitlök:400g, kycklingfond:0.8kg, kokosmjölk:10kg, tomatpure:3kg, rapsolja:200g, chilifrukt:180g, curry:100g, ingefära:60g, farinsocker:300g, kokosflingor:400g
+
+#### Tillagningsanvisning:
+1. krydda kycklingen med salt och peppar.
+2. stek kycklingen nästa färdiga 200 grader i ca 15-20 minuter.
+3. finstrimla färsk röd chili och blanda samman övriga ingredienser till en sås, förutom kokosen, strös på det sista.koka en stund. ev red av？
+4. slå såsen över kycklingen.
+5. låt rätten puttra färdig i ugn ca 5 min, 72 grader innertemp.
+6. strö kokosflinger över den färdiga kycklingen.
+
+
+--------
 ### Korv stroganoff nytt (220 portioner)
 #### Ingredienser:
 falukorv strimlad:12.6kg, rapsolja:320g, gul lök:4kg, vitlök:320g, vitkål:6.3kg, tomatpure:1.89kg, skånsk senap:500g, cayennepeppar:6g, paprika pulver:60g, rosmarin torkad:5g, kalvfond:0.79kg, vispgrädde40%:4.7kg, vatten:10kg, salt
