@@ -143,6 +143,21 @@ rapsolja:45g, gul lök:300g, strösocker:30g, ättiksprit12%:30g, oxfond:150g, v
 
 
 --------
+### Nötfärsgryta cajun (220 portioner)
+#### Ingredienser:
+nötfärs:11kg, gul lök:3.3kg, paprikablandning strimlad:5.5kg, paprika röd strimlad:5.5kg, tomatpure:1.5kg, chilisås:3kg, oxfond:220g, basilika:11g, timjan:11g, cayennepeppar:2g, creme fraiche:4.4kg, svartpeppar:2g
+
+#### Tillagningsanvisning:
+1. bryn färs och lök i stekbord eller i omgångar i gryta.
+2. krydda och tillsätt tomatprodukterna.
+3. tillsätt vatten och koka tills färsen är färdig.
+4. tillsätt creme fraiche
+5. koka upp igen. späd ev med mer vatten och red av med glutenfri redning.
+6. tillsätt paprikan på slutet och låt den bli genomvarm men ej sönderkokt.
+7. smaka av.
+
+
+--------
 ### Kycklingfärsbiff med örtolja (210 protioner)
 #### Ingredienser:
 ##### kycklingfärsbiff:
