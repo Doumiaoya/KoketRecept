@@ -1,3 +1,17 @@
+### Kryddig grönsaksgryta med banan och curry (40 portioner)
+#### Ingredienser:
+wokgrönsaker frys:3.4kg, champinjoner frysta:1kg, curry:4g, rapsolja:200g, vispgrädde40%:1.6kg, kinesisk soja:40g, grönsaksfond:160g, citronpeeppar:4g, banan:1kg, vatten:0.8kg
+
+#### Tillagningsanvisning:
+1. gräs grönsaker, svamp och curry snabbt i olja.
+2. sänk värmen.
+3. tillsätt vatten, buljong, grädde och soya.
+4. smaksätt men salt och citronpeppar.
+5. tillsätt sist de skivade bananerna.
+6. smaka av.
+
+
+--------
 ### Vegansk pastasås med sojafärs, svamp och tomat(50 portioner)
 #### Ingredienser:
 vegetarisk färs(sojafärs):2kg, gul lök:0.65kg, vitlök:50g, morot:0.65kg, champinjoner:300g, rapsolja:50g, oregano:75g, rosmarin:16g, timjan:16g, svartpeppar:16g, tomatpure:400g, tomater krossade:2.65kg, sambal oelek:30g, grönsaksfond:125g, salt, vatten
