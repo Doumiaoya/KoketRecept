@@ -39,6 +39,23 @@ riven ost: 0.6kg
 #### Tillagningsanvisning:
 
 
+--------
+### Hemgjord broccoli och linsbiff (100 portioner)
+#### Ingredienser:
+röda linser torkade:2.5kg, broccoli fryst:5kg, gul lök:1.2kg, vitlök:200g, olivolja:225g, curry:50g, timjan:50g, citronskal rivet:50g, maizenamjöl:100g, salt
+
+#### Tillagningsanvisning:
+1. blötlägg linserna i ca 30 minuter.
+2. häll av vattnet.
+3. koka upp linserna tillsammans med broccolin i nytt saltat vatten.
+4. koka broccolin och linserna riktigt mjukt i ca 10 minuter och låt rinna av väl.
+5. fräs hackad lök och vitlök tillsammans med kryddorna i olivolja tills löken är mjuk.
+6. tillsätt citronskal, salt och maizena.
+7. kör i snabbhack eller med stavmixer alla ingredienser.
+8. provstek en liten biff för att smaka av.
+9. forma små biffar a 50g.
+10. stek/fritera biffarna i mycket olivolja på stekbord. 
+
 
 --------
 ### Pastagratäng med grönsaker och champinjoner (40 portioner)
