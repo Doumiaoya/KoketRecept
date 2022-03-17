@@ -111,6 +111,21 @@ vitkål:7.2kg, blandfärs:1.5kg, vegetarisk färs(sojafärs):1kg, gul lök:1kg, 
 
 
 --------
+### Grekisk ugnsfärs(blandfärs)(96 portioner)
+#### Ingredienser:
+blandfärs:4.5kg, vegetariskfärs(sojafärs):3.7kg, gul lök:1.75kg, vitlök:120g, helägg:1kg, rapsolja:225g, fetaost:0.8kg, tomatpure:170g, oregano:25g, kanel:23g, paprika:40g, timjan:15g, rosmarin:15g, svartpeppar:40g, salt
+
+#### Tillagningsanvisning:
+1. stek löken mjuk.
+2. tillsätt alla kryddor och tomatpure, fräs ihop och låt svalna.
+3. blanda sedan samman samtliga ingredienser.
+4. färsen skall vara ganska lös.
+5. provstek och smaka av.(OBS mängden kryddor, här måste ni smaka er fram. gör ett litet stekprov)
+6. paltta ut köttfärssmeten på vattensköljda bleck ca 3.6 kg/bleck
+7. grädda i ugn grädda i ugn, 230 grader hetluft i 15 minuter, därefter 140 grader combilöge 40% ånga ca 20 minuter. kärntemp 75 grader.
+
+
+--------
 ### Lättugg nötfärsbiff, gräddsås (30 portioner)
 #### Ingredienser:
 ##### nötfärsbiff
