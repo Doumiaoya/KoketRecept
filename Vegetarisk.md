@@ -37,6 +37,35 @@ standarmjölk3%:3.3kg, helägg:1 kg, vitpeppar:1g, salt
 riven ost: 0.6kg
 
 #### Tillagningsanvisning:
+1. skiva potatisen och koka den.
+2. skiva auberginen grovt.
+3. lägg auberginskivorna på bleck.
+4. pensla anbergineskivorna med olivolja och salta.
+5. baka i ugnen i ca 20 minuter på 180 grader.
+
+##### lins och tomatröra:
+6. fräs lök i olivolja.
+7. skölj linserna.
+8. tillsätt alla kryddor, linser, tomatkross, vatten och buljongkoncentrat.
+
+##### såsen: såsen ska vara ganska tunn
+1. koka upp mjölk.
+2. red ev av såsen.
+3. smaksätt med salt och vitpeppar.
+4. när såsen svalnat lite vispas äggen ner i såsen.
+
+##### montering:
+1. lägg den kokta, skivade potatisen i botten på blecket.
+2. slå linsröran ovanpå potatisen.
+3. täck med de ugnsstekta aubergineskivorna.
+4. slå såsen över.
+5. strö den rivna osten överst.
+
+##### lägg i bleck:
+potatis:1.3kg, aubergine:0.9kg, tomat och linsröra:2.7 liter, vit sås:1.3 liter, riven ost:200g
+
+##### 
+baka i ugnen: 175 grader i ca 30 minuter.
 
 
 --------
