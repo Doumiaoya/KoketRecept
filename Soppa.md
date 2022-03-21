@@ -1,3 +1,17 @@
+### Kycklingsoppa med rotfrukter (60 portioner)
+#### Ingredienser:
+kycklinglårfile strimlad:3.6kg, gul lök:1.2kg, kycklingfond:180g, sweet chillisås:240g, vispgrädde:1.2kg, standardmjölk:1.5kg, rotfrukter strimlor:1.2kg, sojabönor:0.9kg, gurkmeja:60g, svartpeppar:3g, persilija:30g
+
+#### Tillagningsanvisning:
+1. fräs lök och de färska kycklingstrimlorna.
+2. tillsätt vatten, buljongpulver och sweet chilisås och grönsakerna. ta tinte i all sweet chilisås på en gång. koka upp.
+3. tillsätt grädde och mjölk. låt sjuda 5-10 minuter.
+4. red eventuellt av soppan.
+5. smaksätt med koriander och färgsätt med gurkeja.
+6. strö persilja över. 
+
+
+--------
 ### Grönsakssoppa med zucchini och rotfrukter(Milano)(60 portioner)
 #### Ingredienser:
 purjolök:0.9kg, vitlök:60g, tomater krossade:0.9kg, vitkål:0.9kg, morot:0.9kg, potatis:0.6kg, rotselleri:0.4kg, zuccchini:0.9kg, gröna äter frysta:0.9kg, creme fraiche:1.2kg, grönsaksfond:0.3kg, rapsolja, persilija, basilika, salt, peppar,vatten
