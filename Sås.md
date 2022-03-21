@@ -1,3 +1,14 @@
+### Kall sås - Tzatziki (150 portioner)
+#### Ingredienser:
+gurka:8.25kg, turkisk yoghurt10%:7.5kg, olivolja:450g, vitlök:150g, salt, peppar
+
+#### Tillagningsanvisning:
+1. riv gurkan grovt blanda med lite salt, låt rinna av i hålsil och krama ur vätska.
+2. blanda den urkamade gurkan med matlagningsyoghurt och olivolja.
+3. tillsätt vitlök, ev salt och lite peppar.
+
+
+--------
 ### Kall sås med vitlök, gräslök, persilja (50 portioner)
 #### Ingredienser:
 turkisk yoghurt10%:4kg, filmjölk3%:1.25kg, vitlök:10g, persilja:100g, gräslök:100g, salt
