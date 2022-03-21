@@ -5,7 +5,7 @@ turkisk yoghurt10%:4kg, filmjölk3%:1.25kg, vitlök:10g, persilja:100g, gräslö
 #### Tillagningsanvisning:
 1. bland samman ingredienserna och smaka av med kryddorna.
 2. 1.1 dl per 1 port
-3. 
+
 
 --------
 ### Sås grädd (50 portioner)
@@ -38,3 +38,17 @@ rapsolja:300g, gul lök:2kg, strösocker:200g, ättiksprit12%:200g, vatten:8kg, 
 7. smaka av.
 8. tillsätt lingonen
 9. smaka av igen.
+
+
+--------
+### Pastasås med ost och skinka(200 portioner)
+#### Ingredienser:
+gul lök:2.4kg, skinka rökt:12kg, palsternacka:3kg, standardmjölk:4kg, margarin flydande:400g, skinkbuljong torrv:340g, matlagningsvin:2.4kg, creme fraiche:3.4kg, grana padano flakes:1kg, rosepeppar:1g, svartpeppar:1g, gräslök:200g, salt, vatten
+
+#### Tillagningsanvisning:
+1. fräs lök, skinka och palsternacka i margarinet.
+2. tillsätt vatten, mjölk och buljongpulver och koka upp.
+3. tillsätt creme fraiche, ost och krydda försiktigt. ev inget salt.
+4. red av
+5. tillsätt matlagningsvinet efter redningen.
+
