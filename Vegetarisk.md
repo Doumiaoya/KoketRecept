@@ -69,6 +69,22 @@ baka i ugnen: 175 grader i ca 30 minuter.
 
 
 --------
+### Asiatisk linsgryta vegan(50 portioner)
+#### Ingredienser:
+gul lök:0.75kg, vitlök:25g, kanel malen:5g, senapsfrö gult:5g, kardemumma:5g morot:1.75kg, röda linser:2kg, vitkål:0.5kg, tomater krossade:1kg, kokosgrädde:1.5kg, grönsaksfond:100g, limejuice:100g, koriander färsk:100g, curry:25g, chiliflakes:5g
+
+#### Tillagningsanvisning:
+1. tärna vitkålen på hällde ca 2x2cm
+2. fräs lök, vitlök,kanel, senapsfrö,kardemumma,curry, chililflakes och salt tills det blirmjukt i olja ca 5 minuter.
+3. tillsätt vatten, morot och linser. koka upp och låt koka 5 minuter.
+4. tillsätt vitkål, krossad tomat, kokosgrädde och grönsaksbuljong.
+5. låt koka ca 5 minuter.
+6. tillsätt mer vatten och det behövs. viktigt att linserna inte kokas sönder.
+7. red av med glutenfri redning.
+8. smaka av med salt, limejuice och hackad färsk koriander.
+
+
+--------
 ### Hemgjord broccoli och linsbiff (100 portioner)
 #### Ingredienser:
 röda linser torkade:2.5kg, broccoli fryst:5kg, gul lök:1.2kg, vitlök:200g, olivolja:225g, curry:50g, timjan:50g, citronskal rivet:50g, maizenamjöl:100g, salt
