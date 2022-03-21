@@ -192,7 +192,7 @@ rapsolja:300g, vatten:2.25kg, oregano:45g, citronjuice konc:0.77kg, redning mat:
 --------
 ### Kycklinginnerfile med senap och dragontäcke (220 portioner)
 #### Ingredienser:
-##### kycklingninerfile:26.4kg
+##### kycklinginnerfile:26.4kg
 ##### Marinad:
 rapsolja:2.2kg, citronjuice konc:0.55kg, svartpeppar:11g, dragon:22g, salt, vatten:0.55kg
 ##### Täcke:
@@ -220,6 +220,20 @@ kycklinglårfile(med salt, peppar och olja):30kg, gul lök:6kg, vitlök:400g, ky
 4. slå såsen över kycklingen.
 5. låt rätten puttra färdig i ugn ca 5 min, 72 grader innertemp.
 6. strö kokosflinger över den färdiga kycklingen.
+
+
+--------
+### Kyckling i sötsur dillsås (220 portioner)
+#### Ingredienser:
+kycklinglårfile strimlad:13kg, morot:5kg, gul lök:3.7kg, vitkål:3.7kg, rotselleri:1.8kg, vispgrädde:2.75kg, kycklingfond:400g, vitpeppar hel:100g, lagerblad:75g, ättiksprit12%:0.55kg, strösocker:220g, dill fryst:370g
+
+#### Tillagningsanvisning:
+1. fräs grönsakerna i oljan 10 minuter i kokgrytan, tillsätt kycklingen och låt fräsa 10 minuter.
+2. tillsätt vitpeppar, lagerblad, vatten och kycklingfond, låt sjuda 20 minuter.
+3. tillsätt grädden och låt sjuda ca 15 minuter eller tills kycklingen är färdig.
+4. red av.
+5. smaka av med ättika, salt och socker.
+6. tillsätt dillen det sista samt strö lite på toppen i kantinen.
 
 
 --------
