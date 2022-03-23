@@ -1,3 +1,17 @@
+### Böngryta med rotsaker (50 portioner)
+#### Ingredienser:
+morot:1kg, purjolök:0.75kg, rotselleri:0.75kg, kikärter kokta:4.5kg, creme fraiche:1.75kg, grönsaksfond:150g, tomatpure:0.65kg, timjan:5g, salt, vatten,rapsolja
+
+#### Tillagningsanvisning:
+1. fräs grönsakerna i oljan några minuter.
+2. tillsätt buljong, vatten, tomatpure och kryddor.
+3. låt småkoka 5-10 minuter.
+4. rör ner creme fraiche och de kokta bönorna(utan spad)
+5. red ev av med microlys utrört i lite vatten.
+6. smaka av.
+
+
+--------
 ### Kryddig grönsaksgryta med banan och curry (40 portioner)
 #### Ingredienser:
 wokgrönsaker frys:3.4kg, champinjoner frysta:1kg, curry:4g, rapsolja:200g, vispgrädde40%:1.6kg, kinesisk soja:40g, grönsaksfond:160g, citronpeeppar:4g, banan:1kg, vatten:0.8kg
@@ -22,6 +36,20 @@ vegetarisk färs(sojafärs):2kg, gul lök:0.65kg, vitlök:50g, morot:0.65kg, cha
 3. fyll på med tomatkross, sambal oelek, vatten och buljong.
 4. låt koka/sjuda i minst 30 minuter.
 5. smaka av med salt.
+
+
+--------
+### Pastasås med oumph, svamp och paprika(60 portioner)
+#### Ingredienser:
+gul lök:0.9kg, vitlök:60g, champinjoner:1.2kg, oumph:4.5kg, standardmjölk:2kg, örtbuljong torrv:180g, creme fraiche:0.9kg, paprikablandning strimlad:420g, timjan:30g, svartpeppar, salt
+
+#### Tillagningsanvisning:
+1. fräs lök, vitlök och champinjoner i olja.
+2. tillsätt tinade oumphbitar, mjölk, buljong och vatten.
+3. red av.
+4. rör i creme fraichen och paprikan. koka upp.
+5. krydda med timjan, salt och peppar.
+6. garnera med bladpersilja.
 
 
 --------
