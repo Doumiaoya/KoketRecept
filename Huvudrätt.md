@@ -126,6 +126,19 @@ blandfärs:4.5kg, vegetariskfärs(sojafärs):3.7kg, gul lök:1.75kg, vitlök:120
 
 
 --------
+### Biff lindström (260 portioner)
+#### Ingredienser:
+blandfärs:11.7kg, vegetarisk färs(sojafärs):9.5kg, helägg:3kg, rödbetor:5.7kg, kapris:2.3kg, gul lök:4.7kg, dijonsenap:0.5kg, rapsolja:0.5kg, vitpeppar, salt:260g, vatten:2.3kg
+
+#### Tillagningsanvisning:
+1. mixa sojafärs smått.
+2. stek löken utan att den tar färg och låt svalna.
+3. blanda allt och forma till små biffar.
+4. provstek och smaka av.
+5. forma biffarna.
+6. stek sedan i rapsolja.
+
+--------
 ### Lättugg nötfärsbiff, gräddsås (30 portioner)
 #### Ingredienser:
 ##### nötfärsbiff
