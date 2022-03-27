@@ -138,6 +138,26 @@ blandfärs:11.7kg, vegetarisk färs(sojafärs):9.5kg, helägg:3kg, rödbetor:5.7
 5. forma biffarna.
 6. stek sedan i rapsolja.
 
+
+--------
+### Indonesisk blandfärsgryta (300 portioner)
+#### Ingredienser:
+blandfärs:8kg, vita bönor torkade:4kg, paprika röd:6kg, gul lök:6kg, vitlök:450g, ingefära:200g, oxfond:0.9kg, tomater krossade:8kg, curry:140g, garam masala:140g, spiskummin:140g, sambal oelek:210, ketjap manis:0.6kg, kokosflingor:210g, ättiksprit:210g, rapsolja, vatten, salt
+
+#### Tillagsningsanvisning:
+1. blötlägg de vita bönorna över natten.
+2. tärna paprikan.
+3. hacka vitlök och ingefära.
+4. stek färsen hårt i rapsolja på stekbord eller i omgångar i gryta, dela den smått.sånk värmen.
+5. tillsätt lök, paprika och alla torra kryddor.
+6. fräs tills paprikan börjar mjukna.
+7. tillsätt vatten, fond, krossade tomater, sambal oelek, ketjap manis, kokosflingor och ättika samt de avrunna vita bönorna.
+8. sjud tills bönorna är mjuka ca 20-60 minuter.
+9. smaka av med salt.
+10. red ev vid behov.
+
+
+
 --------
 ### Lättugg nötfärsbiff, gräddsås (30 portioner)
 #### Ingredienser:
