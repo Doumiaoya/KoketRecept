@@ -399,4 +399,16 @@ gul lök:440g, purjolök:440g, skinka rökt:2kg, potatis:3.2kg, helägg: 2.4kg, 
 4. häll blandningen i blecken och grädda i hetluft, 150 grader i 30-35 minuter eller tills omeletten "stannat"
 
 
+--------
+### Skinkfrestelse (200 portioner)
+#### Ingredienser:
+skinka rökt:10kg, potatis:34kg, purjolök:2kg, vispgrädde:8kg, riven ost:2kg, salt, vitpeppar, vatten, margarin att smörja bleck
 
+#### Tillagningsanvisning:
+1. varva potatis, purjolök och strimlad skinka i smorda bleck. krydda.
+2. blanda grädde och vatten, häll över och strö över riven ost.
+3. grädda i: 
+4. 10 minuter i 100 grader ånga
+5. 35 minuter i 130 grader combi 40% fukt
+6. 10 minuter i 180 grader hetluft.
+   
