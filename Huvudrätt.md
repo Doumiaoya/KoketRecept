@@ -171,6 +171,21 @@ nötfärs:11kg, gul lök:3.3kg, paprikablandning strimlad:5.5kg, paprika röd st
 
 
 --------
+### Burgundisk nötköttsgryta med bacon (180 portioner)
+#### Ingredienser:
+nötkött strimlat:12kg, champinjonger:3kg, rotselleri:2kg, bacon tärnat:1.8kg, gul lök:2.3kg, vitlök:180g, tomatpure:270g, rödvinsvinäger:270g, balsamicovingäger:180g, timjan:27g, lagerblad:60g, svartpeppar:12g, kinesisk soja:62g, kalvfond:0.5kg, salt, vatten.rapsolja
+
+#### Tillagningsanvisning:
+1. bryn nötkött och bacon väl i rapsolja på stekbordet eller i ugn tills det får fin färg.
+2. bryn rotselleri, champinjonger och lök i rapsolja på stekbord.
+3. lägg ner nötkött, bacon, rotselleri, champinjonger och lök i grytan.
+4. tillsätt lagerblad i kryddkula samt övriga ingredienser.
+5. sjud i ca 1 timmer eller tills köttet är mört.
+6. red av.
+7. smaksätt med salt och peppar.
+
+
+--------
 ### Kycklingfärsbiff med örtolja (210 protioner)
 #### Ingredienser:
 ##### kycklingfärsbiff:
