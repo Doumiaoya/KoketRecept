@@ -1,3 +1,29 @@
+### Lasagne med aubergine, squash och morot (220 portioner)
+#### Ingredienser:
+##### lasagneplattor:6.6kg
+##### grönsaksröra:
+purjolök:3.3kg, morot:6.6kg, squash:4.4kg, aubergine:4.4kg, fänkål:2.2kg, grönsaksfond:0.66kg, olivolja:440g, tobasco:2.2g, kanel:30g, strösocker:380g, tomater krossade:22kg, vatten:7.7kg, salt, svartpeppar
+##### örttäcke:
+standarmjölk:11kg, vreme fraiche:4.4kg, dragon:33g, timjan:33g, basilika:77g, riven ost:2.2kg, salt, svartpeppar
+
+#### Tillagningsanvisning:
+##### grönsaksröran:
+1. fräs alla grönsaker till grönskasröran i olivolja.
+2. tillsätt krossade tomater, vatten och buljong.
+3. koka på svag värme ca 10 minuter och smaka av med tabasco, kanel, strösocker, salt och peppar.
+
+##### Örttäcket:
+1. koka upp mjölk och red av med glutenfri redning utrört i lite vätska och låt koka ca 5 minuter.
+2. tillsätt creme fraiche samt örtkryddor och koka upp.
+3. rör i ost och amska av med salt och peppar.
+
+##### Lasagnen:
+1. varva lasagneplattor med grönsaksröra.
+2. avsluta med örtcreme och grädda i ugn vid 160 grader på kombiläge ca 40-50 minuter.
+
+
+
+--------
 ### Risgrynsgröt (40 portioner)
 #### Ingredienser:
 grötris:1.6kg, standardmjölk 3%:11kg, margarin flytande:200g, kanel hel:40g, vatten:1kg, salt
