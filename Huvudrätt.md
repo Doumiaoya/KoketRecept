@@ -285,6 +285,19 @@ kycklinglårfile strimlad:13kg, morot:5kg, gul lök:3.7kg, vitkål:3.7kg, rotsel
 
 
 --------
+### Rosmarin och dijonbrässerade kycklinginnerfile (340 portioner)
+#### Ingredienser:
+kycklinginnerfile:40.8kg, kinesisk soja:340g, vitpeppar:170g, salt, rapsolja
+margarin mjölkfritt flytande:1kg, fänkål:6.8kg, gul lök:6.8kg, bland skogssvamp:6.8kg, matlagningsvin vitt:13.6kg, vispgrädde:10.2kg, dijonsenap:1kg, rosmarin torkad:170g, salt och peppar
+
+#### Tillagningsanvisning:
+1. lägg kycklinginnerfileerna i smorda bleck, pensla med lite olja, salta och peppar och stek i ugn så de får en gyllenbrun färg.
+2. fräs svamp, lök, fänkål och rosmarin i en gryta, tillsätt vinet, grädde och dijonsenap.
+3. låt koka upp och smaka av.
+4. häll blandningen över kycklingen och stek i ugn på kombi 150-175 grader tills innertemperaturen nått 72 grader.
+
+
+--------
 ### Korv stroganoff nytt (220 portioner)
 #### Ingredienser:
 falukorv strimlad:12.6kg, rapsolja:320g, gul lök:4kg, vitlök:320g, vitkål:6.3kg, tomatpure:1.89kg, skånsk senap:500g, cayennepeppar:6g, paprika pulver:60g, rosmarin torkad:5g, kalvfond:0.79kg, vispgrädde40%:4.7kg, vatten:10kg, salt
@@ -405,6 +418,58 @@ purjolök:2.5kg, gul lök:0.75kg, rotselleri:300g, lagerblad:30g, vitpeppar hel:
 
 ##### 
 20 portioner (ca 2.4kg fisk) per bleck, ca 1.6 liter sås per bleck (ca 0.8 dl per port)
+
+
+--------
+### Fisk med morot och basilika (150 portioner)
+#### Ingredienser:
+fisk:18kg, morot:3kg, salt, vitpeppar
+##### sås:
+gul lök:0.75kg, rotselleri:300g, vitvinsvinäger:375g, fiskfond:500g, vispgrädde:3kg, creme fraiche:1.5kg, basilika fryst:390g, vitpepar:35g, lagerblad:30g, salt
+
+#### Tillagningsanvisning:
+##### förberedelser:
+1. grovriv morötterna
+2. salta morötterna och rosta i ugn 200 grader ca i 10 minuter.
+
+##### såsen:
+1. koka upp lök, rotselleri, vitvinsvingäger, fiskfond, vatten samt lagerblad och hel vitpeppar i kryddkula låt sjuda i 15 minuter.
+2. tillsätt grädde och creme fraiche, sjud ytterligare i 10 minuter.
+3. smaka av med salt.
+4. red såsen.
+5. tillsätt basilika. var inte för snål, såsen skall få fin färg.
+6. smaka av.
+
+##### fisk
+1. lägg den tinade och avrunna fisken på de rostade morötterna, ca 20 port 2.4kg per en bleck.
+2. kör i ugn 165 grader innertemp 55 grader ca 10-15 minuter
+3. servera såsen bredvid (läggs på fisken vid dukningen)
+
+
+--------
+### Pocherad fisk med tomat och fänkålsgryta (180 portioner)
+#### Ingredienser:
+säsongens fisk:12.6kg, rapsolja och salt
+##### tomat och fänkålsröra:
+olivolja:486g, prujolök:1.6kg, vitlök:180g, fänkål:2.34kg, morot:2.34kg, rotselleri:1.62kg, palsternacka:1.62kg, tomater korssade:6.3kg, tomatpure:270g, roamarin torkad:12.6g, fänkålsfrö:12.6g, citronjuice:241.54g, citronskal riven:8g, fiskfond:234g, dill fryst:160g, vatten
+
+#### Tillagningsanvisning:
+1. olja och salta blacken
+2. lägg fisken i 70 gram stora bitar på blecken
+3. koka med lock i ånga på 100 grader tills innertemp 50-55 grader.
+(använda buljongen från fisken i såsen.)
+
+##### Pocherad fisk med tomat och fänkålsgryta
+1. skala och tärna rotfrukter och fänkål
+2. strimla purjolöken och skiva vitlöken tunt.
+3. fräs alla rotfrukter, fänkål, lök och kryddor i olivolja ca 15 minuter i grytan.
+4. tillsätt tomatpure och krossade tomaterr, citron, vatten och fiskfond.
+5. låt sjuda i ca 30 minuter tills rotfrukter mjuknar tillsätt dill.
+6. smaka av
+7. red av vid behov
+
+##### servering:
+1. lägg fisken först på tallriken och grömsaksröran ovanpå.
 
 
 --------
