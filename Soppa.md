@@ -65,4 +65,25 @@ paprikablandning strimlad fryst:0.6kg, morot:1.1kg, palsternacka:1.1kg, gul lök
 5. smaka av med basilika, salt och peppar.
 
 
+--------
+### Morotssoppa med kokos och zucchinitoppning (60 portioner)
+#### Ingredienser:
+morot:4.3kg, röda linser:0.72kg, kokosmjölk:3.6kg, gul lök:0.5kg, vitlök:90g, ingefära:90g, äppelcidervinäger:60g, olivolja:150g, gurkmeja,chilipulver, vitpeppar, salt
+##### topping:
+squash:1.2kg, olivolja:120g, persilja fryst:30g
+
+#### Tillagningsanvisning:
+1. fräs lök, vitlök, morot och ingefära i olivolja.
+2. tillsätt kryddor och låt fräsa ytterligare någon minuter.
+3. blanda ner de sköljda linserna i lök och morotsfräset.
+4. slå på vatten och kokosmjölken.
+5. låt sjuda ca 15 minuter.
+6. smaka av och tillsätt vinägern, ev kan soppan mixas.
+
+##### toppning:
+1. skär squashen i små tärningar.
+2. blanda den tärnade squashen med olivolja pch persilja.
+3. smaka av toppingen med salt och peppar.
+
+
 
