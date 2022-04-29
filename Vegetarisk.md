@@ -177,5 +177,18 @@ grönskasfond:22g, äpplejuice konc:100g, japansk soja:100g, ingefära malen:5g,
 3. stek i förvärmd ugn enligt förpackningen.
 
 
+--------
+### Risgrynspudding med citrus och kanel (40 portioner)
+#### Ingredienser:
+rundkornigt grötris:1.6kg, vatten:2kg, standardmjölk:5.8kg, vispgrädde:1.48kg, helägg:2kg, citronjuice:100g, citronskal rivet:4g, kanel:30g, rosmarin:1g, sträsocker:280g, salt, smör:80g
+##### sylt jordgubb
+sylt till pannkaka: 2kg
 
-
+#### Tillagningsanvisning:
+1. koka risgrynen med vatten i ca 10 minuter.
+2. tillsätt mjölken, 2/3 av grädden, salt, kanelstäng och finkackad rosmarin.
+3. sjud i ca 40 minuter och låt svalna lite.
+4. blanda gröten väl med uppvispat ägg, socker, citronsaft och zest och resten av grädden.
+5. smörj blecken med smöret.
+6. slå upp i smorda bleck.
+7. baka i 200 grader i 20 minuter.
