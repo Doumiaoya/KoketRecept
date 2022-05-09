@@ -74,3 +74,15 @@ skinka rökt:10kg, potatis:34kg, purjolök:2kg, vispgrädde:8kg, riven ost:2kg, 
 5. 35 minuter i 130 grader combi 40% fukt
 6. 10 minuter i 180 grader hetluft.
 
+
+
+--------
+### Bondomelett med skinka (40 portioner)
+#### Ingredienser:
+gul lök:440g, purjolök:440g, skinka rökt:2kg, potatis:3.2kg, helägg: 2.4kg, standardmjölk:4.4kg, margarin:80g, vitpeppar, salt
+
+#### Tillagningsanvisning:
+1. fräst lök, purjolök och skinka lite flytande margarin.
+2. varva skinkfräset och kokt kall potatis i smorda bleck.
+3. vispa ihop ägg, mjölk och kryddor.
+4. häll blandningen i blecken och grädda i hetluft, 150 grader i 30-35 minuter eller tills omeletten "stannat"
