@@ -1,3 +1,19 @@
+### Kikärtscurry med tofu och mynta (50 portioner)
+#### Ingredienser:
+kikärter kokta easybag:2.25kg, paprika röd strimlad fryst:1kg, purjolök:0.75kg, sojabönor gröna frysta:1.25kg, kokosgrädde:5kg, tofu:2kg, mynta:25g, chilifrukt:6g, rapsolja:100g, salt:38g, curry:25g, spiskummin:12g,  
+
+#### Tillagningsanvisning:
+1. häll kikärterna i ett durkslag och spola av dem och låt rinna av.
+2. dela, kärna ur och strimla chilin/spanska pepparfrukten.
+3. fräs paprika, chili, purjo, spiskummin och curry i rapsolja.
+4. tillsätt kikärter, gröna sojabänor och kokosmjölk.
+5. koka upp och låt koka 5-10 minuter.
+6. tillsätt tärnad tofu(kolla vilken sort din inkökare beställt, färsk eller konserv)
+7. red ev av med GF redning.
+8. tillsätt hackad mynta och smaka av med salt.
+
+
+--------
 ### Böngryta med rotsaker (50 portioner)
 #### Ingredienser:
 morot:1kg, purjolök:0.75kg, rotselleri:0.75kg, kikärter kokta:4.5kg, creme fraiche:1.75kg, grönsaksfond:150g, tomatpure:0.65kg, timjan:5g, salt, vatten,rapsolja
