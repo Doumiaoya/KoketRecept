@@ -22,7 +22,6 @@ standarmjölk:11kg, vreme fraiche:4.4kg, dragon:33g, timjan:33g, basilika:77g, r
 2. avsluta med örtcreme och grädda i ugn vid 160 grader på kombiläge ca 40-50 minuter.
 
 
-
 --------
 ### Risgrynsgröt (40 portioner)
 #### Ingredienser:
@@ -36,6 +35,22 @@ grötris:1.6kg, standardmjölk 3%:11kg, margarin flytande:200g, kanel hel:40g, v
 5. låt grynen sjuda mjuka.
 6. smaka av 
 7. serveringsportion 3 dl
+
+
+--------
+### Risgrynspudding med citrus och kanel (40 protioner)
+#### Ingredienser:
+rundkornigt grötris:1.6kg, standarmjölk:5.8kg, vispgrädde:1.5kg, helägg:2kg, kanel:30g, rosmarin:1g, strösocker:280g, cirtonjuice:100g, citronskal:4g, salt:68g, smör normalsaltat:80g, sylt jordgubb:2kg
+
+#### Tillagningsanvisning:
+1. koka risgrynen meed vatten i ca 10 minuter
+2. tiisätt mjölken, 2/3 av grädden, salt, kanelstång och finhackad rosmarin.
+3. sjud i ca 40 minuter och låt svalna lite.
+4. blanda gröten väl med uppvispat ägg, socker, citronsaft och zest och resten av grädden.
+5. smörj blecken med smöret.
+6. slå upp i smorda bleck.
+7. baka i 200 grader i 20 minuter.
+
 
 
 --------
