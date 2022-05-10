@@ -110,6 +110,21 @@ olivolja:486g, prujolök:1.6kg, vitlök:180g, fänkål:2.34kg, morot:2.34kg, rot
 
 
 --------
+### Havets wallenbergare
+#### Ingredienser
+fiskfärs rå:32kg, helägg:1.86kg, vispgrädde:6kg, salt:180g, vitpeppar:22g, cayennepeppar:3g, 
+##### panering: panko: 5kg
+##### margarin för ugnsstekning:1.12kg
 
-
+#### Tillagningsanvisning:
+1. blanda fiskfärs med salt (gustavs rek är 2% salt)
+2. lägg upp färsen i hålkantiner så att överskott på fisksaft rinner av. minst en timmer.
+3. blanda i stor mixer el degblandare. det är viktigt att alla ingredienser är riktigt kalla!
+4. först vispa grädde från 1- 5 fart, ca 5 minuter, när grädde inte riktigt klar.
+5. tillsätt i alla kryddor.
+6. tillsätt i fiskfärs, vispa snabbt, ca 2-3 fart.
+7. gör ett stekprov så att det säkert är riktigt gott.
+8. forma biffar: 120 g på normal port, 90 g på E kost.
+9. vända biffarna i panko efter forma
+10. stek biffar på margarin
 
