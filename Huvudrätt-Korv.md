@@ -69,10 +69,10 @@ skinka rökt:10kg, potatis:34kg, purjolök:2kg, vispgrädde:8kg, riven ost:2kg, 
 #### Tillagningsanvisning:
 1. varva potatis, purjolök och strimlad skinka i smorda bleck. krydda.
 2. blanda grädde och vatten, häll över och strö över riven ost.
-3. grädda i: 
-4. 10 minuter i 100 grader ånga
-5. 35 minuter i 130 grader combi 40% fukt
-6. 10 minuter i 180 grader hetluft.
+##### grädda i: 
+1. 10 minuter i 100 grader ånga
+2. 35 minuter i 130 grader combi 40% fukt
+3. 10 minuter i 180 grader hetluft.
 
 
 
