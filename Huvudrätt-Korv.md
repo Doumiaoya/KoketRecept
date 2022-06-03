@@ -75,6 +75,20 @@ skinka rökt:10kg, potatis:34kg, purjolök:2kg, vispgrädde:8kg, riven ost:2kg, 
 3. 10 minuter i 180 grader hetluft.
 
 
+--------
+### Pastasås med ost och skinka (200 portioner)
+#### Ingredienser:
+gul lök:2.4kg, skinka rökt tärnad:12kg, plasternacka:3kg, standardmjölk:4kg, skinkbuljong:340g, creme fraiche:3.4kg, matlagningsvin vitt:2.4kg, grana padano flakes:1kg, rosepeppar:1g, svartpeppar:1g, gräslök fryst:200g, margarin flytande:400g
+
+#### Tillagningsanvisning:
+1. fräs lök, skinka och palsternacka i margarinet.
+2. tillsätt vatten, mjölk och buljongpulver och koka upp.
+3. tillsätt vreme fraiche, ost och krydda försiktigt. ev inget salt.
+4. red av.
+5. tillsätt matlianingsvinet efter redningen.
+
+
+
 
 --------
 ### Bondomelett med skinka (40 portioner)
