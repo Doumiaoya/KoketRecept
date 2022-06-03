@@ -100,3 +100,20 @@ gul lök:440g, purjolök:440g, skinka rökt:2kg, potatis:3.2kg, helägg: 2.4kg, 
 2. varva skinkfräset och kokt kall potatis i smorda bleck.
 3. vispa ihop ägg, mjölk och kryddor.
 4. häll blandningen i blecken och grädda i hetluft, 150 grader i 30-35 minuter eller tills omeletten "stannat"
+
+
+--------
+### Gratinerad kassler med purjolök och paprika (280 portioner)
+#### Ingredienser:
+kassler skiva:19.6kg, purjolök:7kg, paprika röd strimlad:5.6kg, standarmjölk:14kg, vispgrädde:2.8kg, margarin flytande:0.84kg, oxfond:0.84kg, svartpeppar:14g, riven ost 28%:4.2kg
+
+#### Tillagningsanvisning:
+1. lägg den skivade kasslern portionsvis.
+2. bryn purjo och paprika i margarin.
+3. späd med stanarmjölk och tillsätt även buljong.
+4. krydda med malen svartpeppar.
+5. red av med maizena utrört i vatten.
+6. låt sjuda 5 minuter.
+7. sänk värmen och tillsätt ost och grädde.
+8. häll såsen över kasslern.
+9. gratinera i ugn kombieffekt 175 grader till kärntemp 82 grader.
