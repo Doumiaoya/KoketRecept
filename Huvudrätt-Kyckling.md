@@ -29,6 +29,23 @@ rapsolja:300g, vatten:2.25kg, oregano:45g, citronjuice konc:0.77kg, redning mat:
 6. koka upp och låt grytan bli färdig.
 7. smaka av med salt och peppar.
 
+
+--------
+### Kycklinggryta med soltorkad tomat(260 portioner)
+#### Ingredienser:
+kycklinglårfile strimlad:23.4kg, vispgrädde:5.2kg, tomatpure:2.6kg, kinesisk soja:1.3kg, kycklingfond:1.3kg, rapsolja:0.52kg, chilipulver:26g, svartpeppar:26g, soltorkad tomater i olja:1.3kg, persilja:26g
+
+#### Tillagningsanvisning:
+1. skär de soltorkade tomaterna i mindre bitar.
+2. bryn kycklingen i olja.
+3. tillsätt övriga ingredienser till såsen förutom tomat och låt såsen koka upp.
+4. red av med redning till lagom konsistens och låt såsen koka i ca 10 minuter.
+5. lägg i tomaterna i grytan och värm så kycklingen är genomvarm 72 grader.
+6. smaka av med ev mer kryddor, salt och svart peppar.
+7. lägg i persijan det allra sista.
+8. blir grytan för tjock späd med vatten till lagom konsistens.
+
+
 --------
 ### Kycklinginnerfile med senap och dragontäcke (220 portioner)
 #### Ingredienser:
