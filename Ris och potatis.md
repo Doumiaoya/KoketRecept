@@ -74,3 +74,6 @@ palsternacka:10.35kg, potatis skalad till mos:19.55kg, standardmjölk 3%:4.74kg,
 4. smaka av med salt och vitpeppar.
 
 
+--------
+### koka bulgur
+#### koka i ugnen 100 grader ca 15-20 minuter.
