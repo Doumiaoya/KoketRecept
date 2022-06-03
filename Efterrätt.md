@@ -1,3 +1,23 @@
+### Hallon och citronkaka med smör(360 portioner)
+#### Ingredienser:
+helägg:4.05kg, strösocker:4.86kg, smör normalsaltat:5.4kg, vetemjöl:3.5kg, hallon fryst:4.5kg, bakpulver:135g, citronskal rivet:180g
+
+##### till blecken:
+margarin, ströbröd:0.54kg
+
+#### Tillagningsanvisning:
+1. smöra och förbered formarna.
+2. vispa ägg och socker pösigt.
+3. smält smöret.
+4. blanda bakpulvret med lite av mjölet.
+5. blanda försiktigt ner mjölblandningen, det smälta smöret och citronzest i de vispade äggen.
+6. häll smeten i blecken
+7. fördela de avrunna hallonen på smeten.
+8. grädda i ugn 150 grader i ca 30 minuter.
+9. dela kakan med 20 delaren och dela sedan bitarna på tvären så det blir trekanter 40 bitar. 
+
+
+--------
 ### Hembakad kärleksmums (128 portioner)
 #### Ingredienser:
 ägg: 1.56kg(29st), strösocker:2.42kg, vetemjöl kärn:1.71kg, bakpulver:142g, kakapulver:242g, vatten:1.42kg
