@@ -14,6 +14,19 @@ kikärter kokta easybag:2.25kg, paprika röd strimlad fryst:1kg, purjolök:0.75k
 
 
 --------
+### Wokgryta med linser och curry(vegan)(50 portioner)
+#### Ingredienser:
+gröna linser torkade:2kg, wokgrönsaker:4.25kg, paprika röd strimlad:0.75kg, kokosmjölk:2.5kg, sweet chilisås:100g, curry:5g, sambal oelek:1g, gurkmeja:50g, grönsakfond:150g
+
+#### Tillagningsanvisning:
+1. fräs curry, sambal oelek och gurkmeja i oljan.
+2. tillsätt kokosmjölk, buljong, vatten, linser, sweet chilisås och salt.
+3. sjud tills linserna känns nästan klara och lägg i wokgrönskaeroch paprika.
+4. red eventuellt av till lagom konsisitens.
+5. smaka av.
+
+
+--------
 ### Böngryta med rotsaker (50 portioner)
 #### Ingredienser:
 morot:1kg, purjolök:0.75kg, rotselleri:0.75kg, kikärter kokta:4.5kg, creme fraiche:1.75kg, grönsaksfond:150g, tomatpure:0.65kg, timjan:5g, salt, vatten,rapsolja
