@@ -82,6 +82,23 @@ gul lök:0.9kg, vitlök:60g, champinjoner:1.2kg, oumph:4.5kg, standardmjölk:2kg
 
 
 --------
+### Pastagratäng med wokgrönsaker och tofu(vegan)(45 portioner)
+#### Ingredienser:
+fusillipasta kokta:2kg, wokgrönsaker frys:5kg, gul lök:1.5kg, havregrädde:2.5kg, tofu:3.4kg, rapsolja:200g, curry:34g, grönsakfond:34g, salt:34g
+
+#### Tilagningsanvisning:
+1. koka pasten 3-4 min, ej helt klar.
+2. slå av vattnet.
+3. rör ner olja i pastan.
+4. fräs wokgrönsaker lök och curry i olja.
+5. tillsätt havregrädde och örtbuljong.
+6. smaka av med salt och ev, mer curry.
+7. fördela pastan i bleck.
+8. lägg tofun och grönsaksblandningen över pastan.
+9. gratinera i ugn.
+
+
+--------
 ### Vegetarisk moussaka med linser (45 portioner)
 #### Ingredienser:
 ##### 
