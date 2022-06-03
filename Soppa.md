@@ -8,7 +8,7 @@ majskorn frysta:2.5kg, nötfärs:4kg, svartpeppar:5g, spriskummin:12g, persilija
 
 
 
-
+--------
 ### Kycklingsoppa med rotfrukter (60 portioner)
 #### Ingredienser:
 kycklinglårfile strimlad:3.6kg, gul lök:1.2kg, kycklingfond:180g, sweet chillisås:240g, vispgrädde:1.2kg, standardmjölk:1.5kg, rotfrukter strimlor:1.2kg, sojabönor:0.9kg, gurkmeja:60g, svartpeppar:3g, persilija:30g
