@@ -60,6 +60,20 @@ makaroner:2.4kg, salt och rapsolja
 3. det blir lättare att dela när det är olja i annars kilbbar det ihop sig efter nedkylning.
 
 
+--------
+### Ost och skinkpaj hemgjord (180 portioner)
+#### Ingredienser:
+pajskal:12.6kg(45 st), skinka rökt tärnad:11.25kg, purjolök:2.25kg, riven ost 28%:1.8kg,
+
+##### äggstanning:
+helägg:7.43kg, standarmjölk:13.5kg, timjan torkad:45g, basilika torkad:45g,salt:90g
+
+#### Tillagningsanvisning:
+1. fördela skinka, purjo och ost i pajskalen.(rund 25 cm, 250g skinka, 50g purjolök och 1 dl ost)
+2. häll äggstanningen över skinkan och osten.
+3. grädda i 160 grader i ca 30-40 minuter eller tills pajen är gullenbrun och stannningen stelnat.
+
+
 
 --------
 ### Skinkfrestelse (200 portioner)
