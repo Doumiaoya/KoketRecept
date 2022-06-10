@@ -21,6 +21,7 @@ standarmjölk:11kg, vreme fraiche:4.4kg, dragon:33g, timjan:33g, basilika:77g, r
 1. varva lasagneplattor med grönsaksröra.
 2. avsluta med örtcreme och grädda i ugn vid 160 grader på kombiläge ca 40-50 minuter.
 
+Obs: 0.5l grönsaker+ lasagneplattor+ 1.5l grönsaker+ lasagneplattor+ 1.5l grönsaker+ lasagneplattor+  1.8l örtcreme
 
 --------
 ### Risgrynsgröt (40 portioner)
