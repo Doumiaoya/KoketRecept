@@ -1,3 +1,24 @@
+### Äppelkaka (320 portioner)
+#### Ingredienser:
+helägg:3.6kg, strösocker:4.32kg, smör normalsaltat:4.8kg, vetemjöl kärn:3.12kg, kokosflingor:480g, bakpulver:120g, äppleklytor utan skal:4.8kg
+
+##### till blecken:
+margarin, havregryin:480g, pudra över kakan innan gräddning, strösocker, malen kanel, kokosflingor, malen kardemumma
+
+#### Tillagningsanvisning:
+1. obs: tina äppelklytoena och låt dem rinna av.
+2. smöra och förbered formarna
+3. vispa ögg och socker pösigt
+4. smält smöret
+5. blanda bakpulvret med lite av mjölet
+6. blanda försiktigt ner mjölblandningen och det smälta smöret i de vispade äggen.
+7. fördela smeten i blecken
+8. fördela äppelklytoena på smeten i blecken.
+9. pudra över kanel, kardemumma, kokos och lite strösocker.
+10. grädda i ugn 150 grader i ca 30 minuter,
+
+
+--------
 ### Hallon och citronkaka med smör(360 portioner)
 #### Ingredienser:
 helägg:4.05kg, strösocker:4.86kg, smör normalsaltat:5.4kg, vetemjöl:3.5kg, hallon fryst:4.5kg, bakpulver:135g, citronskal rivet:180g
