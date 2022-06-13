@@ -15,7 +15,8 @@ margarin, havregryin:480g, pudra över kakan innan gräddning, strösocker, male
 7. fördela smeten i blecken
 8. fördela äppelklytoena på smeten i blecken.
 9. pudra över kanel, kardemumma, kokos och lite strösocker.
-10. grädda i ugn 150 grader i ca 30 minuter,
+10. grädda i ugn 150 grader i ca 30 minuter
+11. obs: ändrat till att äppelklyftorna läggs övanpå smeten istället för under.
 
 
 --------
