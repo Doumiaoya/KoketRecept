@@ -1,6 +1,6 @@
 ### koka ris
 #### Tillagningsanvisning:
-1. 1 bleck(30 portioner): 2 lite ris, 2.5 lite vatten
+1. 1 bleck(30 portioner): 2 lite ris, salt, 2.5 lite vatten
 2. 100% koka 36 minuter
 
 
