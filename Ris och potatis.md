@@ -1,3 +1,28 @@
+### koka ris
+#### Tillagningsanvisning:
+1. 1 bleck(30 portioner): 2 lite ris, 2.5 lite vatten
+2. 100% koka 36 minuter
+
+
+--------
+### koka potatis och till potatismos
+#### Tillagningsanvisning:
+1. till potatismos: skalade potatis koka 30 minuter.
+2. potatis i påse: koka 35 minuter.
+3. potatis i stor påse: koka 16-18 minuter.
+4. en påse = en halfen kantin med hål = 40 portioner
+
+
+--------
+### koka pasta
+#### tilllagningsanvisning:
+1. 6 kg = 20 liter
+2. 1 djup bleck = 7 liter
+3. pasta: tillsätt salt och koka 17 minuter
+4. makaroni: tillsätt salt och koka 12 minuter
+
+
+--------
 ### Lasagne med aubergine, squash och morot (220 portioner)
 #### Ingredienser:
 ##### lasagneplattor:6.6kg
