@@ -135,8 +135,23 @@ blandfärs:11.7kg, vegetarisk färs(sojafärs):9.5kg, helägg:3kg, rödbetor:5.7
 3. blanda allt och forma till små biffar.
 4. provstek och smaka av.
 5. forma biffarna.
-6. stek sedan i rapsolja.
+6. grädda i ugn: combiläge 10% ånga, 160 grader, 12 minuter
+7. stek sedan i rapsolja.
 
+
+--------
+### Färslimpa (bland färs)(168 portioner)
+#### Ingredienser:
+blandfärs:7.85kg, vegetarisk färs(sojafärs):6.2kg, gul lök:3kg, vitkål(tärna):3kg, helägg:2.3kg, dijonsenap:330g, rapsolja:495g, vatten:2.3kg, salt:172g, vitpeppar
+
+#### Tillagningsanvisning:
+1. stek lök och vitkål tills den mjuknar. låt svalna.
+2. mixa sojafärsen smått.
+3. blanda samtliga ingredienser, späd med vatten tills konsistensen är lagom.
+4. gör ett stekprov och smaka av.
+5. lägg färssmeten på böeck 3.6 kg/bleck(forma till 4 limpa)
+6. grädda i ugn:230 grader hetluft i 15 min, därefter 140 grader combiläge 40% ånga ca 20 min.kärntemp 75 grader.
+7. OBS: grädda 175 grader, 15 min
 
 
 --------
