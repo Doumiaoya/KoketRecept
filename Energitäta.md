@@ -21,10 +21,19 @@
 
 
 
-### Aptit Rödlökschutney (150 portioner)
+### Aptit Fiskpate (150 portioner)
 #### Ingredienser:
-#####
+##### sej till gryta:2.1kg, lax tärnad:2.1kg, helägg: 0.83kg, vispgrädde 35_38% laktofri:1.3kg, salt:117g, cayennepeppar:3g, vitpeppar:3g, dill fryst:117g, persilja fryst:100g
+##### dekoration: dill färsk:128g, citron:450g
 #### Tillagningsanvisning:
+1. sätt ugnen på 175 grader. smöra en avlång form, ca 1.5 lite. lägg ett tillklippt smörpapperi botten.
+2. kör sej och lax i degblandaren och kör sönder fisken med vingen.
+3. tillsätt salt och ägg
+4. blanda ner grädden och smaka av med kryddorna.
+5. kör i ugn på kombivärme 40% ånga i ca 40 minuter, 160 grader.
+6. låt den vila lite i formen, stjälp sen upp och kyl så fort det är praktiskt möjligt.
+
+##### sås: blanda majonnäs med citron
 
 
 ### Aptit Rödlökschutney (150 portioner)
