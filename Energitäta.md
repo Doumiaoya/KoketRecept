@@ -57,10 +57,33 @@
 
 
 --------
-### Aptit Rödlökschutney (150 portioner)
+### Aptit Hemgjord broccoli och linsbiff (100 portioner)
 #### Ingredienser:
-#####
+##### röda linser torkade:624g, broccoli fryst:1.25kg, gul lök:300g, vitlök:50g, olivolja:56g, curry:12g, timjan:12g, citronskal riven:25g, maizenamjöl:25g
 #### Tillagningsanvisning:
+1. blötlägg linserna i ca 30 minuter, häll av vattnet
+2. koka linserna men låt dem behålla lite crunch
+3. koka broccolin i hålkantin, låt broccolin rinna av riktigt väl
+4. fräs hackad lök och vitlök tillsammans med kryddorna i olivolja tills löken är mjuk.
+5. tillsätt citronskal, salt och maizena.
+6. rör först ner broccolin i blandmaskin, därefter blandas resterande ingredienser försiktigt ner.
+7. provstek därefter en liten biff för att smaka av
+8. forma små biffar 25 g.
+9. stek/ fritera biffarna i mycket olivolja på stekbord
+10. kyl ner
+
+##### ställ två fritters på kant i skålen, brevid tzatzikin.
+
+
+
+--------
+### Aptit Tzatzikidip (120 portioner)
+#### Ingredienser:
+##### gurka:0.9kg, turkisk yoghurt laktofri:0.82kg, olivolja:49g, vitlök: 17g, salt:17g, malen peppar
+#### Tillagningsanvisning:
+1. riv gurkan fint och blanda med lite salt, låt rinna av i hålsil ca 30 min och krama ur vätska ordentligt.
+2. blanda den urkamade gurkan med matlagningsyohurt och olivolja
+3. tillsätt vitlök, ev salt och lite peppar.
 
 
 --------
