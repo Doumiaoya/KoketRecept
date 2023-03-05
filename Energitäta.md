@@ -10,6 +10,7 @@
 6. chutney ska bli lite fast så den inte rinner ut i serveringsskålen.
 
 
+--------
 ### Aptit Jordgubbskompott (200 portioner)
 #### Ingredienser:
 ##### jordgubbar osock frysta: 7.14kg, strösocker: 1.43kg
@@ -20,7 +21,7 @@
 4. kyl ner kompotten.
 
 
-
+--------
 ### Aptit Fiskpate (150 portioner)
 #### Ingredienser:
 ##### sej till gryta:2.1kg, lax tärnad:2.1kg, helägg: 0.83kg, vispgrädde 35_38% laktofri:1.3kg, salt:117g, cayennepeppar:3g, vitpeppar:3g, dill fryst:117g, persilja fryst:100g
@@ -36,18 +37,33 @@
 ##### sås: blanda majonnäs med citron
 
 
+--------
+### Aptit Avokadomousse med kvarg och bröd (120 portioner)
+#### Ingredienser:
+##### avokado fryst:3kg, gul lök:240g, kvarg 10%:3kg, citronsaft:180g, salt:188g
+##### rågbröd danskt:0.96kg
+##### dekoration:bladperslija
+##### kall berikning E:fresubin protein powder:300g
+#### Tillagningsanvisning:
+##### kall berikning E: 
+1. rumstempererad vätska för att lösa upp pulvret.
+2. användning i maträtter under 70 grader: rör i pulvret i vätska eller mat.
+
+##### Aptit Avokadomousse med kvarg och bröd
+1. avokadomoussen görs med fördel dagen innan servering.
+2. förvaras i spritpåse i kylen
+3. mixa ingredienserna slätt och spritsa i den runda skålen.
+4. ta bort kanten på brödet och skär det snyggt i trekanter (ca 8g/st)
+
+
+--------
 ### Aptit Rödlökschutney (150 portioner)
 #### Ingredienser:
 #####
 #### Tillagningsanvisning:
 
 
-### Aptit Rödlökschutney (150 portioner)
-#### Ingredienser:
-#####
-#### Tillagningsanvisning:
-
-
+--------
 ### Aptit Gubbröra bröd (120 portioner)
 #### Ingredienser:
 ##### ägg: 3.30kg, gräslök:60g, dill fryst:60g, rödlök hackad:300g, ansjovisfile:300g, kvarg 10%:240g
