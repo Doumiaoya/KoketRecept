@@ -1,3 +1,21 @@
+### Aptit Fritata med potatis och örter (180 portioner)
+#### Ingredienser:
+##### potatis:2.7kg, gul lök:1.08kg, vitlök:38g, olivolja:0.54kg, helägg:4.32kg, vatten:450g, parmesan riven:0.6kg, salt:38g, svartpeppar:3.6g, bladpersilja:7g, timjan färsk:29g
+##### dekoration: timjan färsk:180mg
+
+#### Tillagningsanvisning:
+1. ugnsvärme 180 grader
+2. lägg bakplåtspapper i formen
+3. vispa ihop ägg, vatten och parmesanost.
+4. bryn potatis(amardine m skal),lök och vitlök i olivoljan ttills grönsakerna är mjuka och har fått fin färg.
+5. krydda med salt och peppar.
+6. fördela grönsakerna i formen.
+7. häll äggstanningen över grönsakerna och grädde i ugnen ca 15 minuter tills omeletten har stannat.
+8. kyl ner
+9. skär fritatan i kvadratiska bitar a 50g
+
+
+--------
 ### Aptit Rödlökschutney (150 portioner)
 #### Ingredienser:
 ##### rödlök hackad rå:3kg, olivolja:270g, strösocker:239g, rödvinsvinäger:188g, matlagningsvin rött:1.88kg, salt:65g
@@ -33,6 +51,7 @@
 4. blanda ner grädden och smaka av med kryddorna.
 5. kör i ugn på kombivärme 40% ånga i ca 40 minuter, 160 grader.
 6. låt den vila lite i formen, stjälp sen upp och kyl så fort det är praktiskt möjligt.
+7. skär Fiskpate i skivor om 50g
 
 ##### sås: blanda majonnäs med citron
 
@@ -75,7 +94,6 @@
 ##### ställ två fritters på kant i skålen, brevid tzatzikin.
 
 
-
 --------
 ### Aptit Tzatzikidip (120 portioner)
 #### Ingredienser:
@@ -98,3 +116,4 @@
 2. blanda så nära servering som möjligt
 3. ta bort kanterna och dela brödet snyggt i trekanter a 10g
 4. forma gubbröran till fina äggformade ovaler m ha två matskedar.
+5. lägg den äggformade gubbröran i tvålkoppen, brödskivan ställs i sidan av skålen, garnera med dillvippa.
