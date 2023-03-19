@@ -7,7 +7,7 @@
 1. ugnsvärme 180 grader
 2. lägg bakplåtspapper i formen
 3. vispa ihop ägg, vatten och parmesanost.
-4. bryn potatis(amardine m skal),lök och vitlök i olivoljan ttills grönsakerna är mjuka och har fått fin färg.
+4. bryn potatis(amardine m skal),lök och vitlök i olivoljan tills grönsakerna är mjuka och har fått fin färg.
 5. krydda med salt och peppar.
 6. fördela grönsakerna i formen.
 7. häll äggstanningen över grönsakerna och grädde i ugnen ca 15 minuter tills omeletten har stannat.
@@ -62,11 +62,11 @@
 ##### avokado fryst:3kg, gul lök:240g, kvarg 10%:3kg, citronsaft:180g, salt:188g
 ##### rågbröd danskt:0.96kg
 ##### dekoration:bladperslija
-##### kall berikning E:fresubin protein powder:300g
+##### (kall berikning E:fresubin protein powder:300g)
 #### Tillagningsanvisning:
-##### kall berikning E: 
+##### (kall berikning E: 
 1. rumstempererad vätska för att lösa upp pulvret.
-2. användning i maträtter under 70 grader: rör i pulvret i vätska eller mat.
+2. användning i maträtter under 70 grader: rör i pulvret i vätska eller mat.)
 
 ##### Aptit Avokadomousse med kvarg och bröd
 1. avokadomoussen görs med fördel dagen innan servering.
