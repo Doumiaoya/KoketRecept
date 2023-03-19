@@ -71,7 +71,7 @@ rapsolja:75g, gul lök:500g, strösocker:50g, ättiksprit12%:50g, vatten:2kg, ox
 7. red av.
 8. smaka av.
 ##### lingonsylt:
-#####servaras spm måltidstillbehör exempelvis till färsrätter.
+##### servaras spm måltidstillbehör exempelvis till färsrätter.
 
 
 --------
@@ -105,6 +105,7 @@ vitkål:7.2kg, blandfärs:1.5kg, vegetarisk färs(sojafärs):1kg, gul lök:1kg, 
 7. lägg den blandade färsröran på bleck 4 liter per bleck.
 8. lägg resterade kålfräs på färsröran.
 9. grädda i ugnen ca 45 minuter på 160 grader.
+10. (förbereda: kör i ugn på kombivärme 20% ånga, 150 grader, 12 minuter)
 
 
 
